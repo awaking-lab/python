@@ -1,2 +1,6 @@
-# stuff
-Useful commands
+# Useful commands
+
+# Python (Mac, Windows)
+
+# Docker (Mac, Windows)
+

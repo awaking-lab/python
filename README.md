@@ -4,5 +4,5 @@
 
 # Docker (Mac, Windows) [9]
 
-# GIT (Mac, Windows) [10]
+# GIT (Mac, Windows) (GitHub, HuggingFace, Kaggle) [10]
 

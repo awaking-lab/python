@@ -1,8 +1,5 @@
-# Useful commands
+Commands for Mac:
 
-# Python (Mac, Windows) [8]
+Commands for Windows:
 
-# Docker (Mac, Windows) [9]
-
-# GIT (Mac, Windows) (GitHub, HuggingFace, Kaggle) [10]
-
+Commands for Linux:

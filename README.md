@@ -1,3 +1,5 @@
+# Using a Virtual Environment to resolve Package version conflicts
+
 Package version conflicts can become an issue when running Python's scripts on a local machine. 
 
 One can solve this by creating a virtual environment to run Python's scripts that require packages.
@@ -18,5 +20,15 @@ python -m pip install -r .\requirements.txt
 ```
 
 Commands for Windows:
+```
+python -m venv venv
+venv\Scripts\activate
+python -m pip install -r requirements.txt
+```
 
 Commands for Linux:
+```
+python3 -m venv venv
+source venv/bin/activate
+python -m pip install -r requirements.txt
+```

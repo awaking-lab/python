@@ -2,7 +2,7 @@
 
 Package version conflicts can become an issue when running Python's scripts on a local machine. 
 
-Package version conflicts occer when the packages version on a local machine does not match the version in the Python script.
+Package version conflicts occur when local package versions don't match script requirements.
 
 One can solve this by creating a virtual environment to run Python's scripts that require packages.
 

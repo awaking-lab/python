@@ -1,6 +1,6 @@
 Package version conflicts can become an issue on a local machine. 
 
-One should create a virtual environment to run scripts that require python packages.
+One should create a virtual environment to run Python scripts that require python packages.
 
 A virtual environment is a directory and holds a Python Interpreter and a set of installed packages.
 

@@ -2,7 +2,7 @@ Package version conflicts can become an issue on a local machine.
 
 One should create a virtual environment to run Python scripts that require python packages.
 
-A virtual environment is a directory and holds a Python Interpreter and a set of installed packages.
+A virtual environment is a directory which holds a Python Interpreter and a set of installed packages.
 
 In many instances, there is a requirements.txt file that holds the required packages.
 

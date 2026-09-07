@@ -1,4 +1,4 @@
-# Using a Virtual Environment to resolve package version conflicts
+# Using a virtual environment to resolve package version conflicts
 
 Package version conflicts can become an issue when running Python's scripts on a local machine. 
 

@@ -48,6 +48,6 @@ python -m pip install -r requirements.txt
 
 # Data Structures 
 
-<img width="554" height="554" alt="object_oriented_programming" src="https://github.com/user-attachments/assets/eb0abd42-220c-43d3-9888-2a57b3b1e310" />
+<img width="497" height="665" alt="image" src="https://github.com/user-attachments/assets/a634eda0-1e0f-40ad-829d-0f8c978b3df7" />
 
 # Algorithms

@@ -25,7 +25,7 @@ python -m pip install -r requirements.txt
 Commands for Mac:
 ```
 python -m venv venv
-venv\Scripts\activate
+source venv\bin\activate
 python -m pip install -r .\requirements.txt
 ```
 

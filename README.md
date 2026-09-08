@@ -37,3 +37,17 @@ python -m venv venv
 venv\scripts\activate
 python -m pip install -r requirements.txt
 ```
+
+<img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/e760f150-b075-48a1-a48d-41661e7747b2" />
+
+<b>POOP</b> is not a term
+
+# Object Oriented Programming
+
+<img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/060863b6-df58-4d6e-afc8-1b8475b017ef" />
+
+# Data Structures 
+
+<img width="554" height="554" alt="object_oriented_programming" src="https://github.com/user-attachments/assets/eb0abd42-220c-43d3-9888-2a57b3b1e310" />
+
+# Algorithms

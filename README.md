@@ -1,5 +1,7 @@
 # Using a virtual environment to resolve package version conflicts
 
+<img width="750" height="606" alt="image" src="https://github.com/user-attachments/assets/de50689d-41f4-42d0-8237-1df89bad3476" />
+
 Package version conflicts can become an issue when running Python's scripts on a local machine. 
 
 Package version conflicts occur when local package versions don't match script requirements.

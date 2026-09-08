@@ -32,6 +32,6 @@ python -m pip install -r .\requirements.txt
 Commands for Windows:
 ```
 python -m venv venv
-venv\Scripts\activate
+venv\scripts\activate
 python -m pip install -r requirements.txt
 ```

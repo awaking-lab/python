@@ -36,9 +36,6 @@ python -m pip install -r requirements.txt
 
 # Object Oriented Programming
 
-<img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/060863b6-df58-4d6e-afc8-1b8475b017ef" />
-
-
 Objects - defines a set of attributes (variables) and methods (functions) that all objects created from it will share
 
 Classes - is an individual instance of a class
@@ -50,6 +47,8 @@ Abstraction - the process of hiding complex implementation details and exposing 
 Polymorphism - allows different classes to have methods with the same name, but with behaviors tailored to each specific class
 
 Inheritance - allows a new class (child class) to adopt the attributes and methods of an existing class (parent class)
+
+<img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/060863b6-df58-4d6e-afc8-1b8475b017ef" />
 
 # Data Structures 
 

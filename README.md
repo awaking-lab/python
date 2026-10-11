@@ -52,8 +52,6 @@ Inheritance - allows a new class (child class) to adopt the attributes and metho
 
 # Data Structures 
 
-<img width="497" height="665" alt="image" src="https://github.com/user-attachments/assets/a634eda0-1e0f-40ad-829d-0f8c978b3df7" />
-
 Built-in Core Data Structures
 List ([]) - An ordered, mutable collection that allows duplicate elements. Great for general-purpose sequential data
 
@@ -62,5 +60,7 @@ Tuple (()) - An ordered, immutable collection that allows duplicates. Ideal for 
 Dictionary ({key: value}): An insertion-ordered, mutable collection of key-value pairs. Keys must be unique and hashable. Perfect for fast lookups
 
 Set ({}) - An unordered, mutable collection of unique elements. Highly optimized for mathematical operations like unions, intersections, and membership testing
+
+<img width="497" height="665" alt="image" src="https://github.com/user-attachments/assets/a634eda0-1e0f-40ad-829d-0f8c978b3df7" />
 
 # Sorting Algorithms

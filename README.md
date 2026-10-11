@@ -36,16 +36,24 @@ python -m pip install -r requirements.txt
 
 # Object Oriented Programming
 
-Objects - defines a set of attributes (variables) and methods (functions) that all objects created from it will share.
+Object - is an individual instance of a class.
+
+First line creates a dog object.
+
+The second line prints out the variable name (in this case Buddy).
+
+The third line prints out the variable breed (in this case Golden Retriever)
+
+The fourth line prints out (in this case Woof!)
 
 ```
-dog = Dog("Buddy", "Golden Retriever")
+dog = Dog("Buddy", "Golden Doodle")
 print(dog.name) # Output: Buddy
-print(dog.breed) # Output: Golden Retriever
-print(dog.bark()) # Output: Buddy says Woof!
+print(dog.breed) # Output: Golden Doodle
+print(dog.bark()) # Output: Woof!
  ```
        
-Classes - is an individual instance of a class.
+Class - defines a set of attributes (variables) and methods (functions) that all objects created from it will share.
 
 ```
 class Dog:

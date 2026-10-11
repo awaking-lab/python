@@ -71,7 +71,6 @@ class Dog:
         self.name = name          # Instance attribute
         self.breed = breed        # Instance attribute
 
-    # A method (a function belonging to the class)
     def bark(self):
         return "Woof!"
 

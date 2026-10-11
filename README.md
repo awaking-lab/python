@@ -16,22 +16,14 @@ Otherwise remove the third line below and install the packages manually by using
 
 Below are a set of commands to run a virtual environment on a local machine and install the dependencies.
 
-Commands for Linux:
+Commands for Linux and Mac:
 ```
 python3 -m venv venv
 source venv/bin/activate
 python -m pip install -r requirements.txt
 ```
 
-
-Commands for Mac:
-```
-python -m venv venv
-source venv\bin\activate
-python -m pip install -r .\requirements.txt
-```
-
-Commands for Windows:
+Commands for Windows (Command Prompt):
 ```
 python -m venv venv
 venv\scripts\activate

@@ -34,24 +34,34 @@ python -m pip install -r requirements.txt
 
 <b>POOP</b> is not a technical term
 
-Objects
-
-Classes
-
-Encapsulation
-
-Abstraction
-
-Polymorphism
-
-Inheritance
-
 # Object Oriented Programming
 
 <img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/060863b6-df58-4d6e-afc8-1b8475b017ef" />
+
+
+Objects - defines a set of attributes (variables) and methods (functions) that all objects created from it will share
+
+Classes - is an individual instance of a class
+
+Encapsulation - the process of hiding complex implementation details and exposing only the essential features of an object
+
+Abstraction - the process of hiding complex implementation details and exposing only the essential features of an object
+
+Polymorphism - allows different classes to have methods with the same name, but with behaviors tailored to each specific class
+
+Inheritance - allows a new class (child class) to adopt the attributes and methods of an existing class (parent class)
 
 # Data Structures 
 
 <img width="497" height="665" alt="image" src="https://github.com/user-attachments/assets/a634eda0-1e0f-40ad-829d-0f8c978b3df7" />
 
-# Algorithms
+Built-in Core Data Structures
+List ([]) - An ordered, mutable collection that allows duplicate elements. Great for general-purpose sequential data
+
+Tuple (()) - An ordered, immutable collection that allows duplicates. Ideal for fixed data that shouldn't change (e.g., coordinates)
+
+Dictionary ({key: value}): An insertion-ordered, mutable collection of key-value pairs. Keys must be unique and hashable. Perfect for fast lookups
+
+Set ({}) - An unordered, mutable collection of unique elements. Highly optimized for mathematical operations like unions, intersections, and membership testing
+
+# Sorting Algorithms

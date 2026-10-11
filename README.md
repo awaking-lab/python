@@ -36,9 +36,29 @@ python -m pip install -r requirements.txt
 
 # Object Oriented Programming
 
-Objects - defines a set of attributes (variables) and methods (functions) that all objects created from it will share
+Objects - defines a set of attributes (variables) and methods (functions) that all objects created from it will share.
 
-Classes - is an individual instance of a class
+```
+dog = Dog("Buddy", "Golden Retriever")
+print(dog.name) # Output: Buddy
+print(dog.breed) # Output: Golden Retriever
+print(dog.bark()) # Output: Buddy says Woof!
+ ```
+       
+Classes - is an individual instance of a class.
+
+```
+class Dog:
+    # The initializer method sets up the object's attributes
+    def __init__(self, name, breed):
+        self.name = name          # Instance attribute
+        self.breed = breed        # Instance attribute
+
+    # A method (a function belonging to the class)
+    def bark(self):
+        return f"{self.name} says Woof!"
+
+ ```
 
 Encapsulation - the process of hiding complex implementation details and exposing only the essential features of an object
 

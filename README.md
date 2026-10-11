@@ -42,9 +42,9 @@ First line creates a dog object.
 
 The second line prints out the variable name (in this case Buddy).
 
-The third line prints out the variable breed (in this case Golden Retriever)
+The third line prints out the variable breed (in this case Golden Retriever).
 
-The fourth line prints out (in this case Woof!)
+The fourth line prints out (in this case Woof!).
 
 ```
 dog = Dog("Buddy", "Golden Doodle")
@@ -55,16 +55,25 @@ print(dog.bark()) # Output: Woof!
        
 Class - defines a set of attributes (variables) and methods (functions) that all objects created from it will share.
 
+The first line names the class.
+
+The second, third, and fourth lines are called an initializer or constructor method. 
+
+These lines run when the object gets created (dog = Dog("Buddy", "Golden Doodle")).
+
+The next two lines are called a method.
+
+These lines run when the method get called (print(dog.bark()) # Output: Woof!).
+
 ```
 class Dog:
-    # The initializer method sets up the object's attributes
     def __init__(self, name, breed):
         self.name = name          # Instance attribute
         self.breed = breed        # Instance attribute
 
     # A method (a function belonging to the class)
     def bark(self):
-        return f"{self.name} says Woof!"
+        return "Woof!"
 
  ```
 

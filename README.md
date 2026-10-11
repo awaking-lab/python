@@ -44,7 +44,9 @@ The second line prints out the variable name (in this case Buddy).
 
 The third line prints out the variable breed (in this case Golden Retriever).
 
-The fourth line prints out (in this case Woof!).
+The fourth line prints out a method (in this case Woof!).
+
+The fourth line will be more clear in the class section.
 
 ```
 dog = Dog("Buddy", "Golden Doodle")

@@ -78,7 +78,21 @@ class Dog:
 
  ```
 
-Encapsulation - the process of hiding complex implementation details and exposing only the essential features of an object
+Encapsulation - the process of hiding complex implementation details and exposing only the essential features of an object.
+
+```
+class Dog:
+    def __init__(self, name):
+        self._name = name  # Private-ish attribute
+
+    # 1. The Getter (retrieves the name)
+    def name(self):
+        return self._name
+
+    # 2. The Setter (updates the name to new_name)
+    def name(self, new_name):
+        self._name = new_name
+```
 
 Abstraction - the process of hiding complex implementation details and exposing only the essential features of an object
 
